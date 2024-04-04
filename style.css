@@ -1,0 +1,16 @@
+@font-face{
+    font-family: horror;
+    src: url(./font.ttf);
+}
+.heading{
+    text-align: center;
+    color: rgb(8, 104, 8);
+    
+}
+.body{
+    background-color: black;
+    font-family: horror;
+    color:rgb(8, 104, 8) ;
+}
+
+    

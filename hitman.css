@@ -1,0 +1,12 @@
+@font-face{
+    font-family: horror;
+    src: url(./font.ttf);
+    }
+    .body{
+        background-color: black;
+        font-family: horror;
+        color: rgb(8, 104, 8);
+    }
+    .h1{
+        font-size: xx-large;
+    }
